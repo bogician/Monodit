@@ -1,0 +1,76 @@
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe.config
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\bin\Debug\Monondit DB.pdb
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Form1.resources
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Properties.Resources.resources
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\obj\Debug\Monondit DB.exe
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\obj\Debug\Monondit DB.pdb
+C:\Users\admin\Desktop\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.calculator.resources
+D:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe.config
+D:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe
+D:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.pdb
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csprojAssemblyReference.cache
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.calculator.resources
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Form1.resources
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Properties.Resources.resources
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.GenerateResource.cache
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.CoreCompileInputs.cache
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.exe
+D:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.pdb
+F:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe.config
+F:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe
+F:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.pdb
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csprojResolveAssemblyReference.cache
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.calculator.resources
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Form1.resources
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Properties.Resources.resources
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.GenerateResource.cache
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.CoreCompileInputs.cache
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.exe
+F:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.pdb
+H:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe.config
+H:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe
+H:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.pdb
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csprojAssemblyReference.cache
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.calculator.resources
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Form1.resources
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Properties.Resources.resources
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.GenerateResource.cache
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.CoreCompileInputs.cache
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.exe
+H:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.pdb
+X:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe.config
+X:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe
+X:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.pdb
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csprojAssemblyReference.cache
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.calculator.resources
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Form1.resources
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Properties.Resources.resources
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.GenerateResource.cache
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.CoreCompileInputs.cache
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.exe
+X:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.pdb
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe.config
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.pdb
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csprojAssemblyReference.cache
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.calculator.resources
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Form1.resources
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Properties.Resources.resources
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.GenerateResource.cache
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.exe
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.pdb
+G:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe.config
+G:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.exe
+G:\!МОНОДИТ\Monondit DB\Monondit DB\bin\Debug\Monondit DB.pdb
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csprojAssemblyReference.cache
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.calculator.resources
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Form1.resources
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.Properties.Resources.resources
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.csproj.GenerateResource.cache
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.exe
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit DB.pdb
+C:\Users\bakhm\Desktop\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.add.resources
+G:\!МОНОДИТ\Monondit DB\Monondit DB\obj\Debug\Monondit_DB.add.resources
